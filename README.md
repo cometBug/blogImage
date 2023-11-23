@@ -1,3 +1,1 @@
-# About
-
-this is my blog image host
+# A blog image host
